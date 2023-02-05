@@ -1,5 +1,1 @@
-<<<<<<< HEAD
-conflict
-=======
-Dev-tester
->>>>>>> dev
+testing
